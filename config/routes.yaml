@@ -1,0 +1,3 @@
+app_register:
+    path: /
+    controller: App\Controller\RegistrationController::register
